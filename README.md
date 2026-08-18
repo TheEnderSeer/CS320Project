@@ -1,0 +1,4 @@
+I ensure my code is functional and secure by implementing manual, and automatic tests that validate the output of my code. I use tools such as JUnit, and Owasp Dependency Check to increase my efficiency.
+I determine a user's needs by gathering as specific of detail the user can provide, and develop each individual requirement. Through iteration and feedback during the Agile process I will compare the product with the customer's expectation which uses a technique called Acceptance testing.
+I use best standard coding practices, and stay up to date on tools, tech, and potential exploits. I employ secure coding techniques such as HTTPS, dependency checks, hash functions, and cryptology.
+With testing techniques I assure my projects show that they are functional with an abundance of JUnit test cases with as much efficiency and coverage by leveraging its annotations such as @BeforeEach. I also use assertions for both positive and negative tests.
